@@ -14,5 +14,6 @@ public class Agenda implements IRepository{
     public int read(String key) {
         //Connect to the server for returning the value from a key
         //TODO by the student
+        return 0;
     }
 }

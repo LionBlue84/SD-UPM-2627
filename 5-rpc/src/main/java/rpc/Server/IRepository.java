@@ -1,6 +1,6 @@
 public interface IRepository {
 
-    public void write (Strign key, int d);
+    public void write (String key, int d);
 
 
     public int read (String key);
